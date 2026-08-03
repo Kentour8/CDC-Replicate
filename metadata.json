@@ -1,0 +1,6 @@
+{
+  "name": "CDC Vouchers (RedeemSG Replica)",
+  "description": "An authentic replica of the Singapore CDC Voucher redemption web application (voucher.redeem.gov.sg) with interactive ticket selection, QR code redemption, household sharing, and merchant locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
